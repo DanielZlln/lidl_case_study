@@ -1,0 +1,1 @@
+# lidl_case_study
